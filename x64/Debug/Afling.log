@@ -1,4 +1,2 @@
 ﻿  소스.c
-C:\Users\bit\Desktop\Afling\Afling\소스.c(37,5): error C2059: 구문 오류: ')'
-C:\Users\bit\Desktop\Afling\Afling\소스.c(44,5): error C2065: 'ch': 선언되지 않은 식별자입니다.
-C:\Users\bit\Desktop\Afling\Afling\소스.c(45,11): error C2065: 'ch': 선언되지 않은 식별자입니다.
+  Afling.vcxproj -> C:\Users\bit\Desktop\Afling\x64\Debug\Afling.exe
